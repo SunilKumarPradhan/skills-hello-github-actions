@@ -29,7 +29,7 @@ Your new action will run any time a pull request has been opened.
 
 ![View an action's log](https://user-images.githubusercontent.com/16547949/62388049-4e64e600-b52a-11e9-8bf5-db0c5452360f.png)
 
-### :keyboard: Activity: Trigger the workflow
+### :keyboard: Activity: Trigger the workflow😁
 
 1. Make a new branch named `test-workflow`.
 1. Commit any change to your branch, such as adding an emoji to your README.md file.
