@@ -9,7 +9,7 @@ jobs:
     name: Post welcome comment
     runs-on: ubuntu-latest
     steps:
-      - run: gh pr comment $PR_URL --body "Github Action working fine test was working perfectly"
+      - run: gh pr comment $PR_URL --body "Github Action working , test was working perfectly fine"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_URL: ${{ github.event.pull_request.html_url }}
